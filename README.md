@@ -7,4 +7,4 @@ http://bluebook.godzilla.tech
 This is for customer service including bug report, service recommendation, financial sponsor program etc.
 
 
-<img src="doc/qrcode/qr_search1.png" width="20%" syt height="20%" />
+<img src="doc/qrcode/qr_search1.png" width="50%" syt height="50%" />
