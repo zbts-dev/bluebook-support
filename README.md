@@ -17,8 +17,7 @@
 
 ## 蓝宝书 Bluebook
 
-This is for customer service including bug report, feature requests, contribution, business cooperation, and financial sponsor program etc.
-
+Bluebook is a LLM based AI chat online document repository, which offers user a good experience of full content search, online browsing, reference tracing, and RAG AI chat service.
 
 
 ## Web Visit
