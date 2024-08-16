@@ -16,7 +16,7 @@
 
 
 ## 蓝宝书 Bluebook
-http://bluebook.godzilla.tech
+
 蓝宝书是一个基于AI大模型的在线技术文档库，提供文档全文检索、在线浏览、文献追溯、针对性RAG问答等服务。
 
 
