@@ -15,7 +15,7 @@
 
 蓝宝书 *bluebook
 http://bluebook.godzilla.tech
-This is for customer service including bug report, service recommendation, financial sponsor program etc.
+本项目提供客户服务，包括bug提交、功能建议、商务赞助等。
 
 
 <img src="doc/qrcode/qr_search1.png" width="50%" syt height="50%" />
