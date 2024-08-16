@@ -36,7 +36,7 @@
 
 请提交你的issue至 [issues](https://github.com/zbts-dev/bluebook-support/issues), 我们会尽快回复。
 
-## 业务合作 & 金融赞助
+## 商务合作 & 金融赞助
 
 请联系ketewang@zbts.tech
 
